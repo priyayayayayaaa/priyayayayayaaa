@@ -1,36 +1,121 @@
-# 💫 About Me:
-# 👋 Hi, I'm Priya Kumari  <br>### 🚀 Emerging Software Engineer | Web Developer | Tech Explorer  <br><br>I’m a final-year Computer Science student with a passion for turning ideas into working products.  <br>Right now, I'm focused on building real-world projects, sharpening my development skills, and growing into a strong software engineer who can solve problems that actually matter.<br><br>---<br><br>## 🧠 What I’m Learning & Building  <br>- 🌐 Frontend Development: HTML, CSS, JavaScript  <br>- ☕ Java Development: OOP, DSA basics  <br>- 🗄️ Databases: MySQL, SQL queries  <br>- 🤖 AI + Web: Exploring ways to integrate AI into user-facing apps  <br>- 🛠️ Currently working on: Silent Signal – a real-time safety system using micro-gesture recognition<br><br>---<br><br>## 💻 Tech Stack  <br>Languages:  <br>HTML CSS JavaScript C Java<br><br>Tools & Platforms:  <br>Git GitHub VS Code Figma  <br><br>Interests:  <br>Web Development • AI for Safety • Full-Stack Development • Data Analytics Basics<br><br>---<br><br>## 🌟 Featured Projects  <br>### 🔐 Silent Signal  <br>AI-powered abuse alert system using micro-gesture recognition built for women's safety.  <br>> A blend of web + AI + real-world problem solving.<br><br>(Projects list will grow—because we stay leveling up ✨)<br><br>---<br><br>## 🎓 Certifications  <br>- Introduction to Cybersecurity – Cisco  <br>- Introduction to AI – Infosys  <br>- GPT-3 for Developers – Infosys  <br>- Web Development with ChatGPT – SkillUp  <br>- Data Analyst 101 – SkillUp  <br>- Full-Stack Development Workshop  <br><br>---<br><br>## 📫 Connect With Me  <br>Email: priyaofficial1604@gmail.com  <br>LinkedIn: www.linkedin.com/in/priya-kumari-2b669b2a2  <br><br>---<br><br>### ❤️ A Little Philosophy  <br>> Build consistently. Learn loudly. Ship boldly.  <br>The dev journey is long, but I’m here for the ride.
+# 👋 Hi, I'm Priya Kumari
 
+### 🚀 Software Engineer | Web Developer | AI Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyayayayayaa) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Priya Kumari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyaofficial1604@gmail.com) 
+I am a Computer Science Engineering graduate passionate about building technology that solves real-world problems. My interests lie in web development, artificial intelligence, and creating impactful digital solutions. I enjoy transforming ideas into functional products while continuously learning new technologies and development practices.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyayayayayaaa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=priyayayayayaaa&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyayayayayaaa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Currently, I am focused on strengthening my full-stack development skills, exploring AI-powered applications, and building scalable applications that deliver real value to users.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=priyayayayayaaa&icon=6&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
 
-<!--
-**priyayayayayaaa/priyayayayayaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 B.Tech in Computer Science Engineering (2026 Graduate)
+* 💻 Passionate about Software Development & Problem Solving
+* 🌱 Continuously learning Full-Stack Development, DSA, and AI Technologies
+* 🤝 Enjoy collaborating on innovative projects
+* 🚀 Interested in Web Development, AI Solutions, and Product Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### Languages
+
+* Java
+* JavaScript
+* C
+* HTML5
+* CSS3
+* SQL
+
+### Frameworks & Technologies
+
+* React.js
+* Node.js
+* JWT Authentication
+* REST APIs
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Figma
+* Netlify
+* MySQL
+
+---
+
+## 🚀 Featured Projects
+
+### 🌿 Plant Disease Detection Using Deep Learning
+
+Developed a deep learning-based solution capable of identifying plant diseases from leaf images. The system helps in early disease detection, enabling better crop management and reducing agricultural losses.
+
+**Tech Used:** Deep Learning, Python, CNN Models
+
+---
+
+### 🏢 Employee Administration Dashboard with JWT Authentication
+
+Built a secure employee management platform featuring authentication, authorization, and employee record management. Implemented JWT-based authentication and role-based access control to ensure secure data handling.
+
+**Tech Used:** React.js, Node.js, Express.js, JWT, MySQL
+
+---
+
+## 💼 Experience
+
+### Frontend Developer Intern
+
+**Prodesk IT**
+
+* Developed responsive and user-friendly web interfaces
+* Improved website usability and performance
+* Collaborated with team members to implement project requirements
+
+---
+
+## 📜 Certifications
+
+* Introduction to Cybersecurity – Cisco
+* Introduction to Artificial Intelligence – Infosys Springboard
+* GPT-3 for Developers – Infosys Springboard
+* Web Development with ChatGPT – SkillUp
+* Data Analyst 101 – SkillUp
+* Full-Stack Development Workshop
+
+---
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* MERN Stack Development
+* Backend Development with Node.js
+* AI-Powered Web Applications
+
+---
+
+## 📈 GitHub Stats
+
+*
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [priyaofficial1604@gmail.com](mailto:priyaofficial1604@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/priya-kumari-2b669b2a2](http://www.linkedin.com/in/priya-kumari-2b669b2a2)
+
+🌐 GitHub: https://github.com/priyayayayayaaa
+
+---
+
+## ✨ Philosophy
+
+> "Build consistently. Learn continuously. Create impact."
+
+Every project is an opportunity to learn, improve, and create solutions that make a difference.
+
