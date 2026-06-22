@@ -97,11 +97,6 @@ Built a secure employee management platform featuring authentication, authorizat
 
 ---
 
-## 📈 GitHub Stats
-
-*
-
----
 
 ## 📫 Connect With Me
 
